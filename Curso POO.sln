@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curso POO", "Curso POO\Curso POO.csproj", "{35AA13F1-72B4-4956-A1A2-F23F9F787BE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Curso POO", "Curso POO\Curso POO.csproj", "{35AA13F1-72B4-4956-A1A2-F23F9F787BE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerContract", "WorkerContract\WorkerContract.csproj", "{E01074F7-842E-4BBD-8640-276FE0DF325E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{35AA13F1-72B4-4956-A1A2-F23F9F787BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35AA13F1-72B4-4956-A1A2-F23F9F787BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35AA13F1-72B4-4956-A1A2-F23F9F787BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E01074F7-842E-4BBD-8640-276FE0DF325E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01074F7-842E-4BBD-8640-276FE0DF325E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01074F7-842E-4BBD-8640-276FE0DF325E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01074F7-842E-4BBD-8640-276FE0DF325E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
